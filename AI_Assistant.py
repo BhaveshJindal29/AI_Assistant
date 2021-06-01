@@ -136,7 +136,7 @@ if __name__ == "__main__":
 
             elif 'open disney plus hotstar' in query:
                 speak("opening disney plus hot star")
-                webbrowser.open("Site link")
+                webbrowser.open("Website link")
                 
 
             elif 'open my personal gmail account' in query:
